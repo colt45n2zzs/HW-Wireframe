@@ -26,7 +26,7 @@ body { font-family: 'Arial', Helvetica Neue, Helvetica, sans-serif;
        }
 
 .section { background: #ebebeb;
-           width: 520px;
+           width: 495px;
            height: 250px;
            margin-right: 5px;
            padding: 20px;
@@ -74,7 +74,7 @@ p { color: #777;
 }
 
 .aside { background: #ebebeb;
-    width: 310px;
+    width: 335px;
     height: 250px;
            margin-left: 5px;
            padding: 20px;  
