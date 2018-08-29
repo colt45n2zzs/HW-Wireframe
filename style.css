@@ -51,6 +51,7 @@ h1 { color: #777;
      float: left;
      margin-top: 10px;
      margin-bottom: 10px;
+     text-align: center;
 
 }
 
@@ -63,6 +64,7 @@ h2 { color: #777;
     float: left;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: center;
 
 
 }
@@ -77,6 +79,7 @@ h3 { color: #777;
     float: left;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: center;
 
 
 }
